@@ -1,0 +1,22 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    diweil:
+      email: diwei.depienne@gmail.com
+      failed_login_attempts: 3
+      logged_in: false
+      name: Diwei Liu
+      password: $2b$12$7f0nfuO.My1g1V7asGHcTupl8s/Qskl4laAslJR/zvFI0MVNZdEqi
+    RobertoD:
+      email: edepienne@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Roberto De Gori
+      password: $2b$12$e6ruxqDhKRCEnpeEP64Ee.8SCHQELD/2fh4XyUahJ6JWcA.7s9CkS
+
+pre-authorized:
+  emails:
+  - melsby@gmail.com
